@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #000000;
-	font-family: 'Abel', serif;
+	font-family: 'Trebuchet MS';
 	font-size: 14px;
 	color: #CFCFCF;
 }
@@ -18,7 +18,7 @@ h1 {
 	margin: 0px;
 	padding: 0px;
 	text-transform: none;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Trebuchet MS';
 	font-weight: 400;
 	color: #42859F;
 }
@@ -26,7 +26,7 @@ h2 {
 	margin: 0px;
 	padding: 0px;
 	text-transform: lowercase;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Trebuchet MS';
 	font-weight: 400;
 	color: #42859F;
 }
@@ -34,7 +34,7 @@ h2 {
 	margin: 0px;
 	padding: 0px;
 	text-transform: lowercase;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Trebuchet MS';
 	font-weight: 400;
 	color: #42859F;
 }
@@ -139,7 +139,7 @@ img.aligncenter {
 #logo p {
 	margin-top: -25px;
 	text-align: center;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Trebuchet MS;
 	font-size: 25px;
 }
 
@@ -206,7 +206,7 @@ img.aligncenter {
 	text-transform: lowercase;
 	text-shadow: 2px 2px 2px rgba(0,0,0,.3);
 	text-align:  center;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Trebuchet MS';
 	font-size: 24px;
 	font-weight: normal;
 	color: #FFFFFF;
@@ -255,7 +255,7 @@ img.aligncenter {
 	background: #42859F;
 	list-style: none;
 	text-transform: lowercase;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Trebuchet MS';
 	font-size: 18px;
 	font-weight: normal;
 	color: #FFFFFF;
@@ -290,7 +290,7 @@ img.aligncenter {
 	float: none;
 	width: 700px;
 	font-size: 16px;
-  border: 4px solid white;  /* Параметры рамки */
+  border: 4px solid white;
   padding: 20px;
 	margin: 16px
 }
@@ -442,7 +442,7 @@ img.aligncenter {
 	line-height: normal;
 	text-align: center;
 	text-transform: lowercase;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Trebuchet MS';
 	font-size: 16px;
 	color: #76716C;
 }
